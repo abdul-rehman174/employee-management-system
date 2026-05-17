@@ -1,0 +1,10 @@
+name,emp_id,base_salary,joining_date,department,role
+Zara,E101,60000,2023-01-01,Finance,accountant
+Ahmed,E102,100000,2022-06-15,Management,ceo
+Sana,E103,58000,2022-11-20,HR,hr_manager
+Ali,E104,62000,2023-03-01,Engineering,devops_engineer
+Hamza,E106,62000,2023-03-01,Engineering,devops_engineer
+Iqra,E105,67000,2023-04-05,Sales,sales executive
+
+Guru,EMP10011,70000,2018-11-11,Accounts,ceo
+
